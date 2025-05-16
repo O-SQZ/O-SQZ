@@ -1,3 +1,4 @@
+<img src="https://github.com/O-SQZ/O-SQZ/blob/main/assets/github_banner.JPG" alt="Banner"/>
 <h1 align="left">👋 Hello, I'm Kim JuHyeong</h1>
 <p align="left">
 🎯 To be a <strong>Aspiring Cybersecurity Specialist</strong><br>
