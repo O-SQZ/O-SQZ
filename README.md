@@ -21,7 +21,7 @@ This space is for web, mobile, and AI security tools and public work notes.
   <tbody>
     <tr>
       <td><a href="https://github.com/O-SQZ/pentri">PenTri</a></td>
-      <td>Chrome extension for repetitive information gathering during web security assessments</td>
+      <td>Chrome extension for collecting and organizing information during manual web security assessments</td>
     </tr>
     <tr>
       <td>OvenForge</td>
@@ -29,11 +29,11 @@ This space is for web, mobile, and AI security tools and public work notes.
     </tr>
     <tr>
       <td><a href="https://github.com/O-SQZ/Top10-Mapping-Reporter">Top10 Mapping Reporter</a></td>
-      <td>CLI tool for mapping assessment findings to the OWASP Top 10</td>
+      <td>CLI tool that checks observable web security settings and maps the evidence to OWASP Top 10 2025 categories</td>
     </tr>
     <tr>
       <td><a href="https://github.com/O-SQZ/Top10-ko">OWASP Top 10 2025 Korean Translation</a></td>
-      <td>Korean translation of the OWASP Top 10 2025</td>
+      <td>Korean translation contribution to OWASP Top 10 2025</td>
     </tr>
   </tbody>
 </table>
